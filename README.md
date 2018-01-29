@@ -2,6 +2,9 @@
 
 virtual sound orchestra regent tool. ferramenta de regencia sonora experimental.
 
+
+https://github.com/ricardopalmieri/regent/blob/master/Capturar.PNG?raw=true
+
 patch criado em puredata extended, para a condução de multiplos instrumentos para orquestras de improvisação musical e sonora.
 
 patch principal contem visao para climas sonoros, e sistema de ativar/desativar players.
@@ -10,8 +13,7 @@ patch principal contem visao para climas sonoros, e sistema de ativar/desativar 
 requisitos minimos:
 
 - instalar pd-extended
-
-https://puredata.info/downloads/pd-extended
+![alt text](https://raw.githubusercontent.com/ricardopalmieri/regent/master/Capturar.PNG)
 
 escolha a versão apropriada para seu OS.
 (!!!não se aflija com a mensagem de software descontinuado!!!)
